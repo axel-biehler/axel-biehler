@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:238636&height=220&section=header&text=Axel%20Biehler&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ing%C3%A9nieur%20Cloud%20%2F%20DevOps%20%E2%80%94%20AWS%20%C2%B7%20Terraform%20%C2%B7%20CI%2FCD&descSize=19&descAlignY=57&descColor=c9d1d9" width="100%" alt="Axel Biehler — Ingénieur Cloud & DevOps" />
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:238636&height=220&section=header&text=Axel%20Biehler&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ing%C3%A9nieur%20Cloud%20%2F%20DevOps%20%E2%80%94%20AWS%20%C2%B7%20Terraform%20%C2%B7%20CI%2FCD&descSize=19&descAlignY=57" width="100%" alt="Axel Biehler — Ingénieur Cloud & DevOps" />
   <a href="https://abiehler.fr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=Ing%C3%A9nieur+Cloud+%26+DevOps;AWS+%7C+Terraform+%7C+GitHub+Actions;Serverless+%7C+IAM+%7C+OIDC+%E2%80%94+z%C3%A9ro+cl%C3%A9+AWS+stock%C3%A9e;RAG+sur+Amazon+Bedrock+%7C+S3+Vectors;AWS+Certified+Solutions+Architect+%E2%80%93+Associate" alt="Ingénieur Cloud & DevOps · AWS · Terraform · GitHub Actions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=Ing%C3%A9nieur+Cloud+%26+DevOps;AWS+%7C+Terraform+%7C+GitHub+Actions;Serverless+%7C+IAM+%7C+Event--driven;RAG+sur+Amazon+Bedrock+%7C+S3+Vectors;AWS+Certified+Solutions+Architect+%E2%80%93+Associate" alt="Ingénieur Cloud & DevOps · AWS · Terraform · GitHub Actions" />
   </a>
-
   <br/><br/>
-
   <a href="https://abiehler.fr"><img src="https://img.shields.io/badge/abiehler.fr-238636?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Portfolio" /></a>
   <a href="https://abiehler.fr/cv"><img src="https://img.shields.io/badge/CV-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/axel-biehler-b00938197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjx0ZXh0IHg9IjMiIHk9IjE5IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTciIGZpbGw9IiMwQTY2QzIiPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:axel.biehler5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=axel-biehler&style=flat-square&color=3fb950&label=Visites+du+profil" alt="Compteur de visites" />
 </div>
@@ -53,35 +49,38 @@ Je cherche un poste **DevOps, Cloud ou SRE** où fiabilité, sécurité et coût
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,terraform,githubactions,docker,linux,bash,ts,nodejs,py,java,react,git&theme=dark" alt="AWS, Terraform, GitHub Actions, Docker, Linux, Bash, TypeScript, Node.js, Python, Java, React, Git" /></a>
 </div>
 
-**☁️ Cloud AWS**
+<p align="center"><b>☁️ Cloud AWS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge" alt="Lambda" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge" alt="S3" />
+  <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge" alt="Route 53" />
+  <img src="https://img.shields.io/badge/Cognito-FF9900?style=for-the-badge" alt="Cognito" />
+  <img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge" alt="CloudWatch" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge" alt="Bedrock" />
+  <img src="https://img.shields.io/badge/MediaLive%20%C2%B7%20MediaPackage-FF9900?style=for-the-badge" alt="MediaLive · MediaPackage" />
+</p>
 
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge)
-![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge)
-![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=for-the-badge)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge)
-![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge)
-![Media Services](https://img.shields.io/badge/MediaLive%20%C2%B7%20MediaPackage-FF9900?style=for-the-badge)
+<p align="center"><b>🏗️ IaC · CI/CD · Sécurité</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/OIDC%20%7C%20z%C3%A9ro%20cl%C3%A9%20AWS-238636?style=for-the-badge" alt="OIDC, zéro clé AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/tflint%20%7C%20trivy%20%7C%20checkov-30363d?style=for-the-badge" alt="tflint, trivy, checkov" />
+  <img src="https://img.shields.io/badge/IAM%20moindre%20privil%C3%A8ge-DD344C?style=for-the-badge" alt="IAM moindre privilège" />
+</p>
 
-**🏗️ IaC · CI/CD · Sécurité**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![OIDC](https://img.shields.io/badge/OIDC%20%7C%20z%C3%A9ro%20cl%C3%A9%20AWS-238636?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![tflint trivy checkov](https://img.shields.io/badge/tflint%20%7C%20trivy%20%7C%20checkov-30363d?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM%20moindre%20privil%C3%A8ge-DD344C?style=for-the-badge)
-
-**🧩 Architecture & IA appliquée**
-
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge)
-![Event-driven](https://img.shields.io/badge/Event--driven-6f42c1?style=for-the-badge)
-![Hexagonale](https://img.shields.io/badge/Hexagonale%20%28ports%20%26%20adaptateurs%29-6f42c1?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8957e5?style=for-the-badge)
-![S3 Vectors](https://img.shields.io/badge/Titan%20Embeddings%20%C2%B7%20S3%20Vectors-8957e5?style=for-the-badge)
+<p align="center"><b>🧩 Architecture & IA appliquée</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge" alt="Serverless" />
+  <img src="https://img.shields.io/badge/Event--driven-6f42c1?style=for-the-badge" alt="Event-driven" />
+  <img src="https://img.shields.io/badge/Hexagonale%20%28ports%20%26%20adaptateurs%29-6f42c1?style=for-the-badge" alt="Hexagonale (ports & adaptateurs)" />
+  <img src="https://img.shields.io/badge/RAG-8957e5?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Titan%20Embeddings%20%C2%B7%20S3%20Vectors-8957e5?style=for-the-badge" alt="Titan Embeddings · S3 Vectors" />
+</p>
 
 ---
 
@@ -127,16 +126,12 @@ Je cherche un poste **DevOps, Cloud ou SRE** où fiabilité, sécurité et coût
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby&locale=fr&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby&locale=fr&bg_color=ffffff&title_color=1a7f37&text_color=24292f&border_color=d0d7de" height="170" alt="Langages les plus utilisés" />
   </picture>
-
   <br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=axel-biehler&mode=weekly&locale=fr&date_format=j%20M%5B%20Y%5D&background=0d1117&border=30363d&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
     <img src="https://streak-stats.demolab.com?user=axel-biehler&mode=weekly&locale=fr&date_format=j%20M%5B%20Y%5D&background=ffffff&border=d0d7de&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" width="430" alt="Série de contributions" />
   </picture>
-
   <br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axel-biehler/axel-biehler/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/axel-biehler/axel-biehler/output/github-snake.svg" width="100%" alt="Snake des contributions" />
@@ -155,7 +150,6 @@ Je cherche un poste **DevOps, Cloud ou SRE** où fiabilité, sécurité et coût
   <a href="mailto:axel.biehler5@gmail.com"><img src="https://img.shields.io/badge/axel.biehler5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://abiehler.fr"><img src="https://img.shields.io/badge/abiehler.fr-238636?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Portfolio" /></a>
-
   <br/><br/>
   <sub>Strasbourg, France · ouvert aux opportunités DevOps / Cloud / SRE</sub>
 </div>
