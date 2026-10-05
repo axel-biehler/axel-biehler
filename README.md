@@ -123,8 +123,8 @@ Je cherche un poste **DevOps, Cloud ou SRE** où fiabilité, sécurité et coût
     <img src="https://github-readme-stats.vercel.app/api?username=axel-biehler&show_icons=true&include_all_commits=true&rank_icon=github&locale=fr&custom_title=Statistiques%20GitHub&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&border_color=d0d7de" height="170" alt="Statistiques GitHub" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby&locale=fr&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby&locale=fr&bg_color=ffffff&title_color=1a7f37&text_color=24292f&border_color=d0d7de" height="170" alt="Langages les plus utilisés" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby%2Cswift&locale=fr&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-biehler&layout=compact&langs_count=6&hide=c%2B%2B%2Cc%2Ccmake%2Cobjective-c%2Cdart%2Ckotlin%2Chtml%2Ccss%2Cscss%2Cmakefile%2Cruby%2Cswift&locale=fr&bg_color=ffffff&title_color=1a7f37&text_color=24292f&border_color=d0d7de" height="170" alt="Langages les plus utilisés" />
   </picture>
   <br/>
   <picture>
