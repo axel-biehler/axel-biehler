@@ -8,8 +8,6 @@
   <a href="https://abiehler.fr/cv"><img src="https://img.shields.io/badge/CV-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/axel-biehler-b00938197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjx0ZXh0IHg9IjMiIHk9IjE5IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTciIGZpbGw9IiMwQTY2QzIiPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:axel.biehler5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=axel-biehler&style=flat-square&color=3fb950&label=Visites+du+profil" alt="Compteur de visites" />
 </div>
 
 ```hcl
